@@ -1,9 +1,6 @@
 { pkgs, ... }:
 
 {
-  programs.firefox.enable = true;
-  programs.kitty.enable = true;
-
   home.packages = with pkgs; [
     zsh
     starship

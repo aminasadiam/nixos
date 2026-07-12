@@ -4,6 +4,7 @@
   imports = [
     ./git.nix
     ./packages.nix
+    ./programs.nix
     ./shell.nix
     ./kitty.nix
     ./neovim.nix
