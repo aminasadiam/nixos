@@ -6,7 +6,6 @@
 
   home.packages = with pkgs; [
     zsh
-    neovim
 
     wget
     curl
