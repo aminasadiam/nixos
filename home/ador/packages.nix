@@ -6,6 +6,7 @@
 
   home.packages = with pkgs; [
     zsh
+    starship
 
     wget
     curl

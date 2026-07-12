@@ -7,6 +7,7 @@
     ./shell.nix
     ./kitty.nix
     ./neovim.nix
+    ./starship.nix
   ];
 
   home.username = "ador";
