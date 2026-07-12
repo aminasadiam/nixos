@@ -5,6 +5,8 @@
     isNormalUser = true;
     description = "Ador";
 
+    shell = pkgs.zsh;
+
     extraGroups = [
       "networkmanager"
       "wheel"

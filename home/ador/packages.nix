@@ -5,6 +5,7 @@
   programs.kitty.enable = true;
 
   home.packages = with pkgs; [
+    zsh
     neovim
 
     wget
